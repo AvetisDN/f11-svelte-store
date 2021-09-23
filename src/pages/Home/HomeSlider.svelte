@@ -1,9 +1,9 @@
 <script>
     import Carousel from 'svelte-carousel'
     const images = [
-        "https://images.unsplash.com/photo-1549619856-ac562a3ed1a3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1300&h=400&q=80",
-        "https://images.unsplash.com/photo-1553264646-7eb44743436f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1300&h=400&q=80",
-        "https://images.unsplash.com/photo-1604977936763-a1c3f63ca9c3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1300&h=400&q=80"
+        "https://images.unsplash.com/photo-1549619856-ac562a3ed1a3?fit=crop&w=1300&h=400&q=70",
+        "https://images.unsplash.com/photo-1553264646-7eb44743436f?fit=crop&w=1300&h=400&q=70",
+        "https://images.unsplash.com/photo-1604977936763-a1c3f63ca9c3?fit=crop&w=1300&h=400&q=70"
     ]
 </script>
 

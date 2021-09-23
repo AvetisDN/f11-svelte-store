@@ -9,7 +9,7 @@ import { element } from 'svelte/internal';
         if(c.length > 0) {
             cartQuantity = 0
             c.map(element => {
-                cartQuantity += element.quantity
+                cartQuantity += +element.quantity
             })
         }
     })
